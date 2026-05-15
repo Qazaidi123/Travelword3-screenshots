@@ -12,4 +12,4 @@
 
 ![Screenshot](screenshots/Grafana_Pods_Dash.jpg)
 
-![Screenshot](screenshots/Nodes_Pods_Svc.jpg)
+![Screenshot](screenshots/Nods_Pods_Svc.jpg)
