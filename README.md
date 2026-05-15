@@ -6,10 +6,10 @@
 
 ![Screenshot](screenshots/Exploreworld_India.jpg)
 
-![Screenshot](screenshots/Grafana_Cluster_Dash.jpd)
+![Screenshot](screenshots/Grafana_Cluster_Dash.jpg)
 
 ![Screenshot](screenshots/Grafana_Node_Dash.jpg)
 
-![Screenshot](screenshots/Grafana_Pod_Dash.jpg)
+![Screenshot](screenshots/Grafana_Pods_Dash.jpg)
 
 ![Screenshot](screenshots/Nodes_Pods_Svc.jpg)
